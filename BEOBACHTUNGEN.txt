@@ -1,0 +1,74 @@
+Sprint 1 – Lernnotizen und Arbeitscheckliste
+
+Team / Person: ____________________    Datum: ____________________
+
+Für jeden Teil:
+[ ] Arbeitsblattabschnitt lesen
+[ ] passende Python-Datei öffnen
+[ ] nur die TODO-Stellen ergänzen
+[ ] speichern
+[ ] Ausgabe vorhersagen
+[ ] Datei starten
+[ ] Soll- und Ist-Ausgabe vergleichen
+[ ] eine kurze Beobachtung notieren
+
+Teil 01 Werte
+Vorhersage: _________________________________________________
+Tatsächliche Ausgabe: ________________________________________
+Was hat die Ausgabe verursacht? ______________________________
+
+Teil 02 Bedingungen
+Vorhersage für 4 / 8 / 20: __________________________________
+Tatsächliche Ausgabe: ________________________________________
+Was hat die Ausgabe verursacht? ______________________________
+
+Teil 03 Sammlungen
+Vorhersage: _________________________________________________
+Tatsächliche Ausgabe: ________________________________________
+Was hat die Ausgabe verursacht? ______________________________
+
+Teil 04 Schleifen
+Vorhersage für die laufende Summe: ___________________________
+Tatsächliche Ausgabe: ________________________________________
+Was hat die Ausgabe verursacht? ______________________________
+
+Teil 05 Funktionen
+Vorhersage für status_fuer(8): _______________________________
+Tatsächliche Ausgabe: ________________________________________
+Was hat die Ausgabe verursacht? ______________________________
+
+Teil 06 CSV
+Vorhersage vor / nach der vierten Zeile: ______________________
+Tatsächliche Ausgabe: ________________________________________
+CSV → DictReader → int → Liste → for → Summe
+Zwei erklärte Übergänge: _____________________________________
+
+Teil 07 JSON
+Vorhersage vor / nach dem Bereich: ___________________________
+Tatsächliche Ausgabe: ________________________________________
+Was hat die Ausgabe verursacht? ______________________________
+
+Teil 08 Objekt
+Vorhersage: _________________________________________________
+Tatsächliche Ausgabe: ________________________________________
+Was hat die Ausgabe verursacht? ______________________________
+
+Zwei kurze Erklärungen
+
+1. Eingabe → Code → Ausgabe:
+______________________________________________________________
+
+2. Eingabe → Code → Ausgabe:
+______________________________________________________________
+
+Mein letzter sichtbarer Lauf
+
+Datei und Befehl: python _____________________________________
+Erwartete und tatsächliche Ausgabe: __________________________
+Eine Sache, die ich jetzt selbst erklären kann: ______________
+
+Optional: technischer Schlusscheck
+
+Nur nach Teil 8, wenn gewünscht: python tests/selbstcheck.py
+Ergebnis: ______ von 8 Kernteilen bestanden
+Offener Befund mit genauer Stelle: ____________________________
