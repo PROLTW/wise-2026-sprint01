@@ -1,7 +1,5 @@
 # Sprint 1 – Python selbst schreiben (Starterpaket)
 
-**Zielgruppe:** erste praktische Python-Erfahrungen nach Sprint 0 (VS Code und Python funktionieren); keine Zusatzpakete erforderlich. Der Kernteil besteht aus acht Aufgaben; der Mini-Report ist eine freiwillige Vertiefung.
-
 ## Wo anfangen?
 
 1. Beziehen Sie das Material über [PROLTW/wise-2026-sprint01](https://github.com/PROLTW/wise-2026-sprint01): per `git clone` oder über **Code → Download ZIP**. Die vollständige Einrichtung von Git, VS Code und Python 3.14 steht im Arbeitsblatt Sprint 0.
